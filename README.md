@@ -26,10 +26,4 @@ This project implements the Mean-Shift Clustering algorithm in Python to perform
 - **Parameter Tuning**: Different values for the bandwidth are experimented with to observe their effects on the quality of segmentation.
 - **Qualitative Evaluation**: The segmentation results are evaluated qualitatively by visually inspecting the segmented images.
 
-## Deliverables
-- A Python script or Jupyter Notebook containing the implementation of the mean-shift clustering algorithm and the image segmentation process.
-- A README file that explains the algorithm, approach, parameter choices, and observations from the experimentation.
 
-## Resources
-- Academic papers and online resources can be referred to for a deeper understanding of the mean-shift clustering algorithm.
-- Image segmentation benchmark repositories like BSDS500 or MSRC can be explored for testing and comparison purposes.
